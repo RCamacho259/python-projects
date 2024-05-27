@@ -1,3 +1,6 @@
+Automated File Organization in S3 Bucket using AWS Lambda and Python
+Overview
+This project automates the organization of files within an Amazon S3 bucket using an AWS Lambda function written in Python. The solution categorizes and organizes files based on predefined criteria, enhancing data management and accessibility.
 ```
 import boto3
 from datetime import datetime
